@@ -14,7 +14,7 @@ O **AimWave** é um jogo de tiro em primeira pessoa (FPS) totalmente em 3D desen
 
 Assista abaixo à demonstração completa do funcionamento do jogo, incluindo navegação pelos menus, mecânicas de tiro, recarga e a interface em execução:
 
-👉 **[Clique aqui para assistir ao vídeo de Gameplay no YouTube](https://youtu.be/cMpG4jDsj3w)**
+👉 **[Clique aqui para assistir ao vídeo de Gameplay no YouTube](https://youtu.be/K5cLGAWOW6E)**
 
 ---
 
