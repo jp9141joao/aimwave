@@ -1,7 +1,5 @@
 ## 👨‍💻 Informações do Desenvolvedor
 * **Nome do Aluno:** João Pedro Rosa de Paula  
-* **Instituição:** Uni-FACEF  
-* **Curso:** Engenharia de Software  
 * **Contexto:** Trabalho Prático do 2º Bimestre – Criação de Jogo 3D no Unity  
 
 ---
